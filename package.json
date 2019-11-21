@@ -1,0 +1,18 @@
+{
+  "name": "gatsby-silverstripe-builder",
+  "version": "0.0.0",
+  "description": "A Gatsby plugin that builds a website from a gatsby-source-silverstripe source",
+  "main": "index.js",
+  "repository": "https://github.com/unclecheese/gatsby-silverstripe-builder",
+  "author": "Uncle Cheese",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@loadable/babel-plugin": "^5.10.3",
+    "@loadable/component": "^5.10.3",
+    "@loadable/webpack-plugin": "^5.7.1",
+    "silverstripe-gatsby-helpers": "^1",
+    "gatsby": "^2.15.1",
+    "react": "^16"
+  }
+}
